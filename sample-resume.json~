@@ -132,12 +132,14 @@
         {
           "name": "Solar Plant Monitoring & Analytic Solution",
           "languages": ["JavaScript"],
+	  "startDate": "2015-01-02",
           "tools": ["AngularJS", "Bootstrap", "NodeJS","MongoDB","D3.js"],
           "capacities": ["Developer"]
         },
 	{
           "name": "Wind Farm Portfolio Management Solution",
           "languages": ["JavaScript"],
+	  "startDate": "2015-06-12",	
           "tools": ["AngularJS", "Bootstrap", "NodeJS","MongoDB","D3.js"],
           "capacities": ["Developer"]
         }
