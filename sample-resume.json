@@ -56,7 +56,7 @@
       "position": "Software Developer",
       "website": "http://nisostech.com",
       "startDate": "2013-11-01",
-      "endDate": "2014-07-31",
+      "endDate": "2014-11-31",
       "summary": "Led development of Web and Mobile E commerce applications delivered as a service (SaaS)",
       "highlights": [
         "Delivered service-oriented SaaS platform for E commerce shops on JS stack for startups",
@@ -81,14 +81,14 @@
         },
         {
           "name": "Ratings & Feedback app for Realtors",
-	  "startDate": "2014-03-01",
+	  "startDate": "2014-04-01",
           "languages": ["JavaScript"],
           "tools": ["NodeJS","AngularJS","Stripe Payment","HTML","CSS","MYSQL","Bootstrap","Sequelize","ExpressJS"],
           "capacities": ["Developer"]
         },
         {
           "name": "Online Doctors & Lab booking web Application",
-	  "startDate": "2014-05-01",
+	  "startDate": "2014-08-01",
           "languages": ["JavaScript"],
           "tools": ["NodeJS","AngularJS","Stripe Payment","HTML","CSS","MYSQL","Bootstrap","Sequelize","ExpressJS"],
           "capacities": ["Developer"]
