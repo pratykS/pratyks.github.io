@@ -1,0 +1,211 @@
+{
+  "basics": {
+    "name": "Pratik Sah",
+    "label": "Technologist and Engineer",
+    "picture": "",
+    "email": "prattiiyykk@gmail.com",
+    "phone": "9769961467",
+    "website": "http://pratyks.github.io",
+    "summary": "Self Taught programmer , Open Source technologies addict. IOT & Data analytics for renewable energy",
+    "location": {
+      "address": "501,Shrina CHS, Ashok Van",
+      "postalCode": "400068",
+      "city": "Mumbai",
+      "countryCode": "IN",
+      "region": "MH"
+    },
+    "profiles": [
+      {
+        "network": "twitter",
+        "username": "prattiiyykk",
+        "url": "http://twitter.com/prattiiyykk"
+      },
+      {
+        "network": "linkedin",
+        "username": "Pratik",
+        "url": "https://in.linkedin.com/in/pratik-sah-b60a6792"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Ugam Solutions",
+      "position": "Programmer",
+      "website": "http://eeanalytics.com",
+      "startDate": "2012-03-03",
+      "endDate":"2012-12-15",
+      "summary": "Programmer. Ugam Solutions is a leading Market research & Analytics Firm in India catering fortune 500 companies ",
+      "highlights": [
+        "Modernized the survey look and feel in ConfirmIT.",
+        "Built customized questionnaire UI using JQuery,HTML & CSS .",
+        "Maintenance of survey quota & captured Answer.",
+        "Interaction with clients for new requirements."
+      ],
+      "projects": [
+        {
+          "name": "Employee Engagement Survey",
+          "startDate": "2012-07-12",
+          "languages": ["JavaScript"],
+          "tools": ["ConfirmIT","CSS", "HTML5", "JQuery"],
+          "capacities": ["Developer"]
+        }
+      ]
+    },
+    {
+      "company": "Nisos Technologies",
+      "position": "Software Developer",
+      "website": "http://nisostech.com",
+      "startDate": "2013-11-01",
+      "endDate": "2014-07-31",
+      "summary": "Led development of Web and Mobile field service automation applications delivered as a service (SaaS)",
+      "highlights": [
+        "Delivered distributed, event-based, service-oriented SaaS platform for field service automation on JS stack for startups",
+        "Led development of on/off-line iOS & Android mobile clients in HTML5.",
+        "Handled team of 3 member for development.",
+        "Been a key member in the organization. Employee ID 001."
+      ],
+      "projects": [
+        {
+          "name": "Revamp of a e-commerce website",
+          "startDate": "2013-11-15",
+          "languages": ["JavaScript","Java"],
+          "tools": ["PostgreSQL", "JSP", "HTML5", "CSS3", "JQuery", "AngularJS"],
+          "capacities": ["Developer"]
+        },
+        {
+          "name": "Photo sharing mobile App",
+          "startDate": "2014-01-01",
+          "languages": ["JavaScript"],
+          "tools": ["Cordova", "HTML5", "MySQL", "NodeJS", "Amazon S3","Bootstrap"],
+          "capacities": ["Developer"]
+        },
+        {
+          "name": "Ratings & Feedback app for Realtors",
+          "languages": ["JavaScript"],
+          "tools": ["NodeJS","AngularJS","Stripe Payment","HTML","CSS","MYSQL","Bootstrap","Sequelize","ExpressJS"],
+          "capacities": ["Architect","Developer"]
+        },
+        {
+          "name": "Online Doctors & Lab booking web Application",
+          "languages": ["JavaScript"],
+          "tools": ["NodeJS","AngularJS","Stripe Payment","HTML","CSS","MYSQL","Bootstrap","Sequelize","ExpressJS"],
+          "capacities": ["Architect","Developer"]
+        }
+      ]
+    },
+    {
+      "company": "EasySize",
+      "position": "Web Developer",
+      "website": "http://agentek.com",
+      "startDate": "2013-09-01",
+      "endDate": "2014-09-31",
+      "summary": "Led UI development of EasySize - brand-size conversion tool.",
+      "highlights": [
+        "Joined team EasySize at early stage as an intern.",
+        "Developed UI for brand-size conversion tool.",
+        "Developed customized UI widgets as per client's requirement.",
+        "Implementation of new features & POC development for Investor Demo Pitch.",
+        "Worked remotely , Team EasySize is based out in Copenhagen,Denmark."
+      ],
+      "projects": [
+        {
+          "name": "UI for SaaS based brand-size conversion tool.",
+          "languages": ["JavaScript"],
+          "tools": [ "HTML5", "CSS3", "JQuery","BootStrap"],
+          "startDate": "2013-10-01",
+          "endDate": "2014-09-15",
+          "capacities": ["Developer"]
+        }
+      ]
+    },
+    {
+      "company": "MachinePulse",
+      "position": "Front End Developer",
+      "website": "http://versionone.com",
+      "startDate": "2014-12-26",
+      "summary": "Helped build leading agile product development management solution, delivered as a service.",
+      "highlights": [
+        "Contributed as member of a high-performing software team developing the leading project planning and management tool designed specifically for agile software development.",
+        "Coded in C# 3.0, ASP.NET, DHTML, JavaScript, and AJAX with Subversion, ReSharper, and Cruise Control."
+      ],
+      "projects": [
+        {
+          "name": "SolarPulse",
+          "languages": ["JavaScript"],
+          "tools": ["ASP.NET", "CruiseControl.NET", "NUnit"],
+          "capacities": ["Architect", "Developer"]
+        }
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Pune",
+      "area": "Electronics Engineering",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2007-08-22",
+      "endDate": "2011-07-10"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Agile Software Practices",
+      "level": "Advanced",
+      "keywords": [
+        "Scrum",
+        "Extreme Programming",
+        "Domain-Driven Design",
+        "User Story Mapping",
+        "Lean Startup Techniques",
+        "TDD",
+        "Continuous Delivery",
+        "Automated Acceptance Testing"
+      ]
+    },
+    {
+      "name": "Object Orient Development",
+      "level": "Advanced",
+      "keywords": [
+        "JavaScript",
+        "Design Patterns",
+        "SOLID Principles"
+      ]
+    },
+    {
+      "name": "Software as a Service",
+      "level": "Advanced",
+      "keywords": [
+        "Cloud",
+        "Messaging",
+        "REST"
+      ]
+    },
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML5",
+        "WebAPI",
+        "CSS3",
+        "Javascript",
+        "AngularJS",
+        "D3"
+      ]
+    },
+    {
+      "name": "Mobile App Development",
+      "level": "Advanced",
+      "keywords": [
+        "PhoneGap",
+        "Ionic",
+        "Mobile UI"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ]
+}
