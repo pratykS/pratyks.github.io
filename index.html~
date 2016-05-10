@@ -156,8 +156,6 @@
                     </div>
                     <fieldset class="filterOptions">
                         <legend>Roles</legend>
-                        <input class="filterButtonLanguage" name="Manager" type="checkbox" checked>Manager</input><br>
-                        <input class="filterButtonLanguage" name="Architect" type="checkbox" checked>Architect</input><br>
                         <input class="filterButtonLanguage" name="Developer" type="checkbox" checked>Developer</input><br>
                     </fieldset>
                 </div>
@@ -167,8 +165,6 @@
                 <div id="toolChart">
                     <fieldset class="filterOptions">
                         <legend>Roles</legend>
-                        <input class="filterButtonTool" name="Manager" type="checkbox" checked>Manager</input><br>
-                        <input class="filterButtonTool" name="Architect" type="checkbox" checked>Architect</input><br>
                         <input class="filterButtonTool" name="Developer" type="checkbox" checked>Developer</input><br>
                     </fieldset>
                 </div>
