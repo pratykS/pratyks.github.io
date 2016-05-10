@@ -96,31 +96,6 @@
       ]
     },
     {
-      "company": "EasySize",
-      "position": "Web Developer",
-      "website": "http://easysize.me",
-      "startDate": "2013-09-01",
-      "endDate": "2014-09-31",
-      "summary": "Led UI development of EasySize - brand-size conversion tool.",
-      "highlights": [
-        "Joined team EasySize at early stage as an intern.",
-        "Developed UI for brand-size conversion tool.",
-        "Developed customized UI widgets as per client's requirement.",
-        "Implementation of new features & POC development for Investor Demo Pitch.",
-        "Worked remotely , Team EasySize is based out in Copenhagen,Denmark."
-      ],
-      "projects": [
-        {
-          "name": "UI for SaaS based brand-size conversion tool.",
-          "languages": ["JavaScript"],
-          "tools": [ "HTML5", "CSS3", "JQuery","BootStrap"],
-          "startDate": "2013-10-01",
-          "endDate": "2014-09-15",
-          "capacities": ["Developer"]
-        }
-      ]
-    },
-    {
       "company": "MachinePulse",
       "position": "Front End Developer",
       "website": "http://machinepulse.in",
