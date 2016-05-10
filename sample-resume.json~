@@ -24,7 +24,12 @@
         "network": "linkedin",
         "username": "Pratik",
         "url": "https://in.linkedin.com/in/pratik-sah-b60a6792"
-      }
+      },
+	{
+	"network":"facebook",
+	"username":"prattzz",
+	"url":"https://www.facebook.com/prattzz"	
+	}
     ]
   },
   "work": [
