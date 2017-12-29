@@ -147,7 +147,7 @@
 				{
 					"name": "Here MapCreator",
 					"languages": ["JavaScript"],
-					"startDate": "2015-01-02",
+					"startDate": "2017-11-01",
 					"tools": ["AngularJS", "NodeJS", "MongoDB", "GeoJSON"],
 					"capacities": ["Developer"]
         }
