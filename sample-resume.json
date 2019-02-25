@@ -8,7 +8,7 @@
 		"website": "http://pratyks.github.io",
 		"summary": "Self Taught programmer , Open Source technologies addict. IOT & Data . Exploring BlockChain and its endless possibilities",
 		"location": {
-			"address": "501,Shrina CHS, Ashok Van",
+			"address": "Ashok Van",
 			"postalCode": "400068",
 			"city": "Mumbai",
 			"countryCode": "IN",
@@ -23,13 +23,8 @@
 			{
 				"network": "linkedin",
 				"username": "Pratik",
-				"url": "https://in.linkedin.com/in/pratik-sah-b60a6792"
+				"url": "https://www.linkedin.com/in/ps-2909/"
       },
-			{
-				"network": "facebook",
-				"username": "prattzz",
-				"url": "https://www.facebook.com/prattzz"
-	},
 			{
 				"network": "github",
 				"username": "pratyks",
@@ -38,6 +33,100 @@
     ]
 	},
 	"work": [
+		{
+			"company": "HERE Technologies",
+			"position": "Software Engineer II",
+			"website": "https://www.here.com",
+			"startDate": "2016-10-17",
+			"summary": "Part of Core Map Engineering team which builds and make maps better",
+			"highlights": [
+        "Contributed as member of a high-performing geo-editing tool.",
+				"Coded in JavaScript , ReactJS , Redux , AngularJS , NodeJS , AWS.",
+				"Active contributor to MapCreator , light weight web geo editing tool",
+				"Development of plugins and feature for MapCreator and Tools"
+      ],
+			"projects": [
+				{
+					"name": "Here MapCreator",
+					"languages": ["JavaScript"],
+					"startDate": "2016-11-01",
+					"tools": ["AngularJS","ReactJS", "NodeJS", "MongoDB", "GeoJSON"],
+					"capacities": ["Developer"]
+        }
+      ]
+	},
+	{
+		"company": "MachinePulse",
+		"position": "Front End Developer",
+		"website": "http://machinepulse.in",
+		"startDate": "2014-12-26",
+		"endDate": "2016-09-27",
+		"summary": "Helped build leading solar pv plant monitoring & analytic solution, delivered as a service.",
+		"highlights": [
+			"Contributed as member of a high-performing real time solar plant monitoring solution.",
+			"Coded in JavaScript, AngularJS , NodeJS , MongoDB & D3.js"
+		],
+		"projects": [
+			{
+				"name": "Solar Plant Monitoring & Analytic Solution",
+				"languages": ["JavaScript"],
+				"startDate": "2015-01-02",
+				"tools": ["AngularJS", "Bootstrap", "NodeJS", "MongoDB", "D3.js"],
+				"capacities": ["Developer"]
+			},
+			{
+				"name": "Wind Farm Portfolio Management Solution",
+				"languages": ["JavaScript"],
+				"startDate": "2015-06-12",
+				"tools": ["AngularJS", "Bootstrap", "NodeJS", "MongoDB", "D3.js"],
+				"capacities": ["Developer"]
+			}
+		]
+	},
+	{
+		"company": "Nisos Technologies",
+		"position": "Software Developer",
+		"website": "http://nisostech.com",
+		"startDate": "2013-11-01",
+		"endDate": "2014-11-31",
+		"summary": "Led development of Web and Mobile E commerce applications delivered as a service (SaaS)",
+		"highlights": [
+			"Delivered service-oriented SaaS platform for E commerce shops on JS stack for startups",
+			"Led development iOS & Android mobile clients in HTML5.",
+			"Handled team of 3 member for development.",
+			"Been a key member in the organization. Employee ID 001."
+		],
+		"projects": [
+			{
+				"name": "Revamp of a e-commerce website",
+				"startDate": "2013-11-15",
+				"languages": ["JavaScript", "Java"],
+				"tools": ["PostgreSQL", "JSP", "HTML5", "CSS3", "JQuery", "AngularJS"],
+				"capacities": ["Developer"]
+			},
+			{
+				"name": "Photo sharing mobile App",
+				"startDate": "2014-01-01",
+				"languages": ["JavaScript"],
+				"tools": ["Cordova", "HTML5", "MySQL", "NodeJS", "Amazon S3", "Bootstrap"],
+				"capacities": ["Developer"]
+			},
+			{
+				"name": "Ratings & Feedback app for Realtors",
+				"startDate": "2014-04-01",
+				"languages": ["JavaScript"],
+				"tools": ["NodeJS", "AngularJS", "Stripe Payment", "HTML", "CSS", "MYSQL", "Bootstrap", "Sequelize", "ExpressJS"],
+				"capacities": ["Developer"]
+			},
+			{
+				"name": "Online Doctors & Lab booking web Application",
+				"startDate": "2014-08-01",
+				"languages": ["JavaScript"],
+				"tools": ["NodeJS", "AngularJS", "Stripe Payment", "HTML", "CSS", "MYSQL", "Bootstrap", "Sequelize", "ExpressJS"],
+				"capacities": ["Developer"]
+			}
+		]
+	}
 		{
 			"company": "Ugam Solutions",
 			"position": "Programmer",
@@ -60,99 +149,7 @@
 					"capacities": ["Developer"]
         }
       ]
-    },
-		{
-			"company": "Nisos Technologies",
-			"position": "Software Developer",
-			"website": "http://nisostech.com",
-			"startDate": "2013-11-01",
-			"endDate": "2014-11-31",
-			"summary": "Led development of Web and Mobile E commerce applications delivered as a service (SaaS)",
-			"highlights": [
-        "Delivered service-oriented SaaS platform for E commerce shops on JS stack for startups",
-        "Led development iOS & Android mobile clients in HTML5.",
-        "Handled team of 3 member for development.",
-        "Been a key member in the organization. Employee ID 001."
-      ],
-			"projects": [
-				{
-					"name": "Revamp of a e-commerce website",
-					"startDate": "2013-11-15",
-					"languages": ["JavaScript", "Java"],
-					"tools": ["PostgreSQL", "JSP", "HTML5", "CSS3", "JQuery", "AngularJS"],
-					"capacities": ["Developer"]
-        },
-				{
-					"name": "Photo sharing mobile App",
-					"startDate": "2014-01-01",
-					"languages": ["JavaScript"],
-					"tools": ["Cordova", "HTML5", "MySQL", "NodeJS", "Amazon S3", "Bootstrap"],
-					"capacities": ["Developer"]
-        },
-				{
-					"name": "Ratings & Feedback app for Realtors",
-					"startDate": "2014-04-01",
-					"languages": ["JavaScript"],
-					"tools": ["NodeJS", "AngularJS", "Stripe Payment", "HTML", "CSS", "MYSQL", "Bootstrap", "Sequelize", "ExpressJS"],
-					"capacities": ["Developer"]
-        },
-				{
-					"name": "Online Doctors & Lab booking web Application",
-					"startDate": "2014-08-01",
-					"languages": ["JavaScript"],
-					"tools": ["NodeJS", "AngularJS", "Stripe Payment", "HTML", "CSS", "MYSQL", "Bootstrap", "Sequelize", "ExpressJS"],
-					"capacities": ["Developer"]
-        }
-      ]
-    },
-		{
-			"company": "MachinePulse",
-			"position": "Front End Developer",
-			"website": "http://machinepulse.in",
-			"startDate": "2014-12-26",
-			"endDate": "2016-09-27",
-			"summary": "Helped build leading solar pv plant monitoring & analytic solution, delivered as a service.",
-			"highlights": [
-        "Contributed as member of a high-performing real time solar plant monitoring solution.",
-        "Coded in JavaScript, AngularJS , NodeJS , MongoDB & D3.js"
-      ],
-			"projects": [
-				{
-					"name": "Solar Plant Monitoring & Analytic Solution",
-					"languages": ["JavaScript"],
-					"startDate": "2015-01-02",
-					"tools": ["AngularJS", "Bootstrap", "NodeJS", "MongoDB", "D3.js"],
-					"capacities": ["Developer"]
-        },
-				{
-					"name": "Wind Farm Portfolio Management Solution",
-					"languages": ["JavaScript"],
-					"startDate": "2015-06-12",
-					"tools": ["AngularJS", "Bootstrap", "NodeJS", "MongoDB", "D3.js"],
-					"capacities": ["Developer"]
-        }
-      ]
-    },
-		{
-			"company": "HERE Technologies",
-			"position": "Engineer",
-			"website": "https://www.here.com",
-			"startDate": "2016-10-17",
-			"summary": "Part of Core Map Engineering team which builds and make maps better",
-			"highlights": [
-        "Contributed as member of a high-performing geo-editing tool.",
-        "Coded in JavaScript, AngularJS , NodeJS."
-      ],
-			"projects": [
-				{
-					"name": "Here MapCreator",
-					"languages": ["JavaScript"],
-					"startDate": "2016-11-01",
-					"tools": ["AngularJS", "NodeJS", "MongoDB", "GeoJSON"],
-					"capacities": ["Developer"]
-        }
-      ]
-	}
+    }
   ],
 	"education": [
 		{
